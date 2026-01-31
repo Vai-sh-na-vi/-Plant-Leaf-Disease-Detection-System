@@ -75,7 +75,7 @@ To get a local copy up and running, follow these steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/HiteshPolavarapu/Plant-Leaf-Disease-Detection-System.git]
+    git clone [https://github.com/Vai-sh-na-vi/Plant-Leaf-Disease-Detection-System.git]
     ```
 2.  **Install dependencies:**
     ```sh
